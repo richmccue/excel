@@ -3,7 +3,7 @@ layout: default
 title: Introduction 
 nav_order: 1
 ---
-<img src="images/taguette-logo.png" style="float:right;width:180px;height:180px;"> (MODIFY IMAGE HERE)
+<img src="images/excel-01.png" style="float:right;width:180px;height:180px;"> 
 
 # Introduction to Data Analysis with Excel
 
