@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 4-Charting and Graphs
-nav_order: 3
+nav_order: 7
 parent: Workshop Activities
 ---
 # Charting and Graphs 
