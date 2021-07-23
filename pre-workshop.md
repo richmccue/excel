@@ -4,11 +4,12 @@ title: Pre-Workshop Activities
 nav_order: 2
 ---
 ## Pre-Workshop Videos & Activities
-This workshop is primarily hands-on practice with Taguette in order to learn to use key features of the software. To participate fully please do the following **before the workshop**:
+This workshop is primarily hands-on practice with Excel in order to learn to use key features of the software. To participate fully please do the following **before the workshop**:
 
-- Watch, _Coding Qualitative Data_ (9 min):
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lYzhgMZii3o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-- **Optional**: If you are new to qualitative coding, you might want to review this helpful [Coding Qualitative Data](https://docs.google.com/presentation/d/1l6-NMZ4S64ZkuER_pjk4ORVYH4tq7GHl/){:target="_blank"} slide deck before you start working on the workshop's hands-on activities (5 min)
+5-10 minutes.
+OPTIONAL - Introduction to Spreadsheets for Beginners (5 min)
+OPTIONAL - If you don’t have the latest version of Microsoft Excel, you can request a UVic licensed and paid-for version of Office 365 here: https://onlineservices.uvic.ca/   
+Then download the Office installer here: https://portal.office.com   
+Please login with your UVic NetLink ID credentials. Please note that you will need to enter in your NetLinkID@uvic.ca, and not just your NetLinkID.
 
 [NEXT STEP: Introduction to Hands-On Activities](activities-intro.html){: .btn .btn-blue }
