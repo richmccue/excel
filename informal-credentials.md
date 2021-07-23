@@ -3,7 +3,7 @@ layout: default
 title: Earn a Workshop Badge
 nav_order: 9
 ---
-<img src="https://api.badgr.io/public/badges/XX0GwJmHTR2Z68DP8Q4HVw/image" style="float:right;width:180px;">
+<img src="https://api.badgr.io/public/badges/XX0GwJmHTR2Z68DP8Q4HVw/image" style="float:right;width:180px;"> (ADD EXCEL BADGE HERE)
 
 # Informal Credentials or Digital Badges
 
@@ -15,14 +15,10 @@ DSC badges are awarded at the request of workshop participants after a DSC staff
 
 ### Earn an Informal Credential or Badge for Taguette
 
-If you’d like to earn a DSC badge for this porkshop, please email the following screenshots to: [dscommons@uvic.ca](mailto:dscommons@uvic.ca){:target="_blank"}
-1. Code list (see example below)
-2. Intermediate Analysis of Taguette Excel spreadsheet
-3. Word cloud image
-
-**Code list example**
-
-![Code list example](/images/taguette-code-list.png)
+If you’d like to earn a DSC badge for this porkshop, please email the following spreadsheets to: [dscommons@uvic.ca](mailto:dscommons@uvic.ca){:target="_blank"}
+1. Statistical Functions
+2. Macros
+3.  Digital Dashboards
 
 ### Learn how you can share your DSC Badge
 To learn more about DSC badges and how you can share your them on LinkedIn profile, personal website, or resume, check our [DSC Badges webpage](https://onlineacademiccommunity.uvic.ca/dsc/badges/){:target="_blank"}.
