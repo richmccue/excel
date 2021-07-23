@@ -3,7 +3,7 @@ layout: default
 title: Earn a Workshop Badge
 nav_order: 9
 ---
-<img src="https://api.badgr.io/public/badges/XX0GwJmHTR2Z68DP8Q4HVw/image" style="float:right;width:180px;"> (ADD EXCEL BADGE HERE)
+<img src="https://api.badgr.io/public/badges/VniblBxHTduaHgNkPtAVfQ/image" style="float:right;width:180px;"> 
 
 # Informal Credentials or Digital Badges
 
