@@ -7,7 +7,7 @@ nav_order: 2
 This workshop is primarily hands-on practice with Excel in order to learn to use key features of the software. To participate fully please do the following **before the workshop**:
 
 5-10 minutes.
-OPTIONAL - Introduction to Spreadsheets for Beginners (5 min)
+OPTIONAL - [Introduction to Spreadsheets for Beginners](https://www.youtube.com/watch?v=rJbf-2XXsuY) (5 min)
 OPTIONAL - If you don’t have the latest version of Microsoft Excel, you can request a UVic licensed and paid-for version of Office 365 here: https://onlineservices.uvic.ca/   
 Then download the Office installer here: https://portal.office.com   
 Please login with your UVic NetLink ID credentials. Please note that you will need to enter in your NetLinkID@uvic.ca, and not just your NetLinkID.
