@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 1-Excel Basics and Data CLeaning
+title: 2-Introduction to Functions
 nav_order: 4
 parent: Workshop Activities
 ---
