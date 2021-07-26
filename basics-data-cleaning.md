@@ -32,15 +32,15 @@ If you and your group have any questions or get stuck as you work through this i
   - Click on C1, select the green dot on the bottom right of the cell & drag it down to cell C11.
   - If you’d like more details on absolute cell referencing, [view this page](http://bit.ly/2EGE4EY){:target="_blank"} 
 
-6. OPTIONAL: The Text to Columns tool can come in handy when you want to split a table of text (like on a web page) into multiple cells. If you’d like more information on converting text to columns, view this video: http://bit.ly/2HYNA7y 
+6. OPTIONAL: The Text to Columns tool can come in handy when you want to split a table of text (like on a web page) into multiple cells. If you’d like more information on converting text to columns, [view this video](http://bit.ly/2HYNA7y){:target="_blank"} 
 
-7. OPTIONAL: How to filter data using the filter button. If you’d like more details on filtering data in a range, view this video: http://bit.ly/2I3qI6N 
+7. OPTIONAL: How to filter data using the filter button. If you’d like more details on filtering data in a range, [view this video](http://bit.ly/2I3qI6N){:target="_blank"} 
 
 8. OPTIONAL: Data Cleaning using Find, Replace & Pivot Tables: 
-  - If you’d like more details on finding or replacing data, view this video: http://bit.ly/2I09Qhy 
-  - Sort a column of data and then look down it for mis-spellings: http://bit.ly/2Yk2FaT 
+  - If you’d like more details on finding or replacing data, [view this video](http://bit.ly/2I09Qhy){:target="_blank"} 
+  - Sort a column of data and then look down it for mis-spellings, [View a data organization guide](http://bit.ly/2Yk2FaT){:target="_blank"} 
   - For very large data sets, you can create a Pivot table - using the group by function - can help you quickly identify misspelled words. See the Pivot Table & Charts handout for details.
-  - For larger and more complex datasets, OpenRefine is a more powerful tool than Excel for cleaning data: http://openrefine.org/  OpenRefine is a free, Open Source tool.
+  - For larger and more complex datasets, [OpenRefine](http://openrefine.org/){:target="_blank"} is a more powerful tool than Excel for cleaning data: OpenRefine is a free, Open Source tool.
 
 9. How to change categorical data (e.g., male, female) into “true”, “false”:
   - In cell E4 enter: goat, in E5 enter: dog, in E6 enter: goat, in E7 enter, goat, in E8 enter dog.
@@ -48,7 +48,7 @@ If you and your group have any questions or get stuck as you work through this i
   - Another way to do this would be to use the VLOOKUP function that will be covered in a later activity.
 
 10. Data Validation:
-  - One of the easiest ways to validate data is to use an input form with radio boxes or drop-down menus as you see in all online survey tools. Google Sheets has an excellent Forms tool that can be used to collect data you enter yourself or survey data from research participants. Google Forms, puts the data into Google Sheets, which can then be either analyzed in Google Sheets or exported to MS Excel. Here is more information about Google Forms: http://bit.ly/2FBqK5y 
-  - If you’d like more information on data collections forms and validation in Excel, view please follow along with this video: http://bit.ly/2I2jEYb
+  - One of the easiest ways to validate data is to use an input form with radio boxes or drop-down menus as you see in all online survey tools. Google Sheets has an excellent Forms tool that can be used to collect data you enter yourself or survey data from research participants. Google Forms, puts the data into Google Sheets, which can then be either analyzed in Google Sheets or exported to MS Excel. [Here is more information about Google Forms](http://bit.ly/2FBqK5y){:target="_blank"}
+  - If you’d like more information on data collections forms and validation in Excel, view please follow along with [this video](http://bit.ly/2I2jEYb){:target="_blank"}
 
 [NEXT STEP: Intro to Functions](intro-functions.html){: .btn .btn-blue }
