@@ -48,7 +48,7 @@ Press OK and the spreadsheet will re-order so that the workshop list is reordere
   - You should now have a chart that looks like the one to the right.
 
 7. **Scatterplot with Trendline:** 
-  - Download and open [this Excel spreadsheet](https://bit.ly/3eujqsm) Note: You may have a yellow bar at the top with a button that says **Enable Editing**. Click on that to enable editing.
+  - Download and open [this Excel spreadsheet](https://bit.ly/3eujqsm){:target="_blank"}  Note: You may have a yellow bar at the top with a button that says **Enable Editing**. Click on that to enable editing.
   - Select cells **A1** to **B46**. 
   - Click on the Insert tab, and then click on the **Recommended Charts** button, and select the first recommended chart which should be a **Scatter** chart. Click **OK**.
   - To add a trendline, click on the **Add Chart Elements** button on the top left toolbar, and then **Trendline** and then **Linear**.
@@ -59,6 +59,8 @@ Press OK and the spreadsheet will re-order so that the workshop list is reordere
   - To change the chart title, double click on the title which is currently “Grade”, and then change it to: **Grade Homework Assignment Correlation**.
 
 OPTIONAL:
-8. Histogram:  [Instructions](http://bit.ly/2I78FNh) for how to create a Histogram chart.
-9. 
+8. **Histogram**:  [Instructions](http://bit.ly/2I78FNh){:target="_blank"} for how to create a Histogram chart.
+9. **Line Chart**: [Instructions](http://bit.ly/2HXiIEk){:target="_blank"} for how to create a Line chart.
+10. **Box & Whisker**: [Instructions](http://bit.ly/2I90O1w){:target="_blank"} for how to create a Box and Whisker chart
+
 [NEXT STEP: Pivot Tables and Pivot Charts](pivot-tables-charts.html){: .btn .btn-blue }
