@@ -14,7 +14,7 @@ Functions are powerful tools that can quickly let you make complex calculations.
 2. SUM function: The sum function quickly and easily adds up a range of numbers for you.
   - In cell A13 type: =sum(A1:A11) and press Enter on your keyboard. Cell A13 should now have the number 59 in it. 
   - Rows can also be summed. Enter some numbers in cells A16 to D16, and then in cell A17 type: =sum(A16:D16)  After pressing Enter, the sum of those four numbers should appear.
-  - Here is a video tutorial on how to use the Sum function in Excel: http://bit.ly/2HZ9Jmi 
+  - Here is a [video tutorial] on how to use the Sum function in Excel: (http://bit.ly/2HZ9Jmi){:target="_blank"}  
 
 3. INT function: The INT function rounds a number down to the nearest integer. For example, =INT(5.6789) would return 5
   - Here is a tutorial on how to use the INT function in Excel: http://bit.ly/2I2qFIv 
