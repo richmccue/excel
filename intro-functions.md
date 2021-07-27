@@ -27,7 +27,7 @@ Functions are powerful tools that can quickly let you make complex calculations.
   - Here is a [tutorial](https://bit.ly/2I4IFCh){:target="_blank"} on how to use the COUNTIF function in Excel
 
 6. VLOOKUP function: Use VLOOKUP when you need to find things in a table or a range by row. For example, look up the price of a sale item by item name.
-  - [Open this spreadsheet](https://bit.ly/dsc-vlookup){:target="_blank"} Click on the yellow Enable Editing button at the top of the screen.
+  - [Open this spreadsheet](https://bit.ly/dsc-vlookup){:target="_blank"} and Click on the yellow Enable Editing button at the top of the screen.
   - In the B4 field type: =VLOOKUP(A4,$D$4:$E$9,2,FALSE)
   - Copy and paste the contents of B4 into B5 to B10.
   - Type in a few item names (like “Dog” or “Seal” for example) from the lookup table in field A11 and below.
