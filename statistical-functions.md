@@ -52,7 +52,7 @@ Statistical Functions are powerful tools that can quickly let you make complex c
   - Enter in **H14** the formula **=SKEW(A1:A11)** and then press the **Enter** key. 
   - **H14** should contain **-0.297596** which is the Skewness of those eleven numbers.
 
-10. STANDARDIZE function: “In statistics, standardization is the process of putting different variables on the same scale. This process allows you to compare scores between different types of variables.” ([Standardization resource by Jim Frost](https://bit.ly/2KaqjlV)){:target="_blank"} The STANDARDIZE function returns a normalized value from a distribution characterized by mean and standard_dev. Eg. =STANDARDIZE(5,5.363,2.248)  Normalized value of 5, using 5.363 as the arithmetic mean and 2.248 as the standard deviation. The result is: -0.1617
+10. STANDARDIZE function: “In statistics, standardization is the process of putting different variables on the same scale. This process allows you to compare scores between different types of variables.” ([Standardization resource by Jim Frost](https://bit.ly/2KaqjlV){:target="_blank"}) The STANDARDIZE function returns a normalized value from a distribution characterized by mean and standard_dev. Eg. =STANDARDIZE(5,5.363,2.248)  Normalized value of 5, using 5.363 as the arithmetic mean and 2.248 as the standard deviation. The result is: -0.1617
   - Enter in **J13**: **Standardize**
   - Enter in **J14** the formula **=STANDARDIZE(C14, A14, E14)** and then press the **Enter** key. 
   - **J14** should contain **-0.161743283** which is Standardized for the mode.
