@@ -9,7 +9,7 @@ parent: Workshop Activities
 If you and your group have any questions or get stuck as you work through this in-class exercise, please ask the instructor for assistance.  Have fun!
 
 1. Open Excel, and open a **Blank workbook.**
-2. Rows, columns, and cells defined:
+2. Rows, columns, and cells defined: 
   - Columns are vertical. Eg. **Column C.**
   - Rows are horizontal. Eg. **Row 3.**
   - Cells are the intersection between a column and a row. Eg. Cell **E7** (see image).<br>
@@ -20,9 +20,9 @@ If you and your group have any questions or get stuck as you work through this i
   - Enter number **5** into cell A1 in your spreadsheet, and then press **Enter** on your keyboard.
   - Enter the following numbers in Column **A** below the number 5 you just entered: **6, 8, 3, 1, 9, 5, 4, 7, 5, 6.**  We will use this list of numbers for the rest of this exercise.
 
-3. **Basic operation on cells**:
+3. **Basics operation on cells**:
   - Click on Cell **C3**, press the = sign, then use your mouse and click on A1, press the + sign, then click on Cell A2. Cell C3 should have the following in it: =A1+A2. Now press **Enter** on your keyboard, and Excel will add cells **A1** and **A2** together and display the number 11 in Cell C3.
-<img src="images/excel-basics-04.png" width="400" height="200" > 
+<img src="images/excel-basics-04.png" > 
   - Click on or Select Cell C5, and then type in **=A3-A4**  Now press **Enter** on your keyboard, and Excel will display **5** in Cell **C5** (8-3=5).
   - Click on another cell and do the same thing to multiply two or more cells together using the * symbol to multiply.
   - Click on another cell and do the same thing to divide two or more cells using the / symbol to divide.
