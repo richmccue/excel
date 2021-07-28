@@ -12,7 +12,8 @@ If you and your group have any questions or get stuck as you work through this i
 2. Rows, columns, and cells defined:
   - Columns are vertical. Eg. **Column C.**
   - Rows are horizontal. Eg. **Row 3.**
-  - Cells are the intersection between a column and a row. Eg. Cell **E7** (see image).
+  - Cells are the intersection between a column and a row. Eg. Cell **E7** (see image).<br>
+ 
 <img src="images/excel-basics-02.png" style="float:left;width:400px;height:200px;"> 
  <img src="images/excel-basics-03.png" style="float:right;width:250px;height:250px;"> 
   - Enter number **5** into cell A1 in your spreadsheet, and then press **Enter** on your keyboard.
