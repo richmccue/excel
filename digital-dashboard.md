@@ -14,15 +14,15 @@ In this activity, you will create a Digital Dashboard, integrating data from a n
 3. Click on the **Dashboard** tab at the bottom left of the spreadsheet and give this sheet the title of **DSC Dashboard** in cell **A1**.  
 
 4. Link the Most Important statistics or Key Data to your Dashboard from other sheets:
-  - In A3 type Month. In B3 type # of Workshops. In C3 type Participants. In D3 Print Jobs. In E3 type $ Printed. 
-  - In the rows under month column type: Sept, Oct, Nov, Dec (see right).
-  - Add the number of workshops from each month to the Dashboard sheet: In cell B4 type: = then click on the Workshop by Month tab, and select cell B5, then press Enter. Do the same for October, November, & December.
-  - Add the number of participants from each month on the Dashboard sheet: In cell C4 type: = then click on the Workshop by Month tab, and select cell C5, then press Enter. Do the same for October, November, & December.
-  - Add the number of print jobs from each month on the Dashboard:  In cell D4 type: = then click on the Print by Month tab, and select cell B4, then press Enter. Do the same for October, November, & December. 
-  - Add the dollar value of print jobs from each month on the Dashboard: In cell E4 type: = then click on the Print by Month tab, and select cell C4, then press Enter. Do the same for October, November, & December.  
+  - In **A3** type **Month**. In **B3** type # of Workshops. In **C3** type **Participants**. In **D3** Print Jobs. In **E3** type **$ Printed**. 
+  - In the rows **under month** column **type: Sept, Oct, Nov, Dec** (see right).
+  - Add the number of workshops from each month to the Dashboard sheet: In cell **B4** type: **=** then **click** on the **Workshop by Month** tab, and **select** cell **B5**, then press **Enter**. Do the same for October, November, & December.
+  - Add the number of participants from each month on the Dashboard sheet: In cell **C4** type: **=** then **click** on the **Workshop by Month** tab, and **select** cell **C5**, then **Enter**. Do the same for October, November, & December.
+  - Add the number of print jobs from each month on the Dashboard:  In cell **D4** tupe: **=** then **click** on the **Print by Month** tab, and **select** cell **B4**, then press **Enter**. Do the same for October, November, & December. 
+  - Add the dollar value of print jobs from each month on the Dashboard: In cell **E4** type: **=** then click on the **Print by Month** tab, and select cell **C4**, then press **Enter**. Do the same for October, November, & December.  
 
 5. Create Visualizations for your most important statistics or key indicators:
-  - Create a bar graph of $ printed by month by selecting A3:A7 and then hold down your <ctrl> key (or <command> key on a mac) and select E3:E7.
+  - Create a bar graph of $ printed by month by **selecting A3:A7** and then hold down your <ctrl> key (or <command> key on a mac) and **select E3:E7**.
   - Next, select the Insert tab at the top of the screen, and then click on Recommended Charts. The default bar chart should work fine, so click OK. Click on the Chart Title and rename it to $ Printed
   - Create a bar graph of $ printed by month by selecting A3:A7 and then hold down your <ctrl> key (or <command> key on a mac) and select E3:E7.
   - Next, select the Insert tab at the top of the screen, and then click on Recommended Charts. The default bar chart should work fine, so click OK. Click on the Chart Title and rename it to $ Printed
