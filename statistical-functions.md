@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 3-Statistical Functions
+title: 4-Statistical Functions
 nav_order: 5
 parent: Workshop Activities
 ---
