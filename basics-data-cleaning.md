@@ -29,12 +29,12 @@ If you and your group have any questions or get stuck as you work through this i
 
 4. **Copying & pasting into ranges** with the default Relative Cell referencing:
   - In cell **B1** type **5** and then press **Enter**. Click on **B1**, then **select** the **green dot** on the **bottom right of the cell** and **drag it** down to cell **B11**. You should now have a column of 5’s.
-<img src="images/excel-basics-07.gif"> 
+<img src="images/excel-basics-07.gif" width="250" height="250"> 
   - In cell **C1** enter: **=A1*B1** and press **Enter** (please delete the data currently in column C). Click on **C1**, then **select** the **green dot** on the **bottom right of the cell** and **drag it** down to cell **C11**. You’ve just multiplied all the rows in column A and B and put the result in column C! 
 <img src="images/excel-basics-08.gif"> 
 
 5. Relative cell referencing is the default. Here is how you make an **Absolute Cell Reference**:
-<img src="images/excel-basics-09.gif" style="float:right"> 
+<img src="images/excel-basics-09.gif" style="float:right;width:320px;height:320px;"> 
   - **Delete** the contents of columns **B** and **C** **except for the first row** (cells **B1** and **C1**).
   - **Double-click** on cell **C1**, and then **edit the formula** to look like this: **=A1*B$1**. Press **Enter**.
   - Click on **C1**, **select** the **green dot** on the **bottom right of the cell** & **drag it** down to cell **C11**.
