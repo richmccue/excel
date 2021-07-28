@@ -20,7 +20,7 @@ If you and your group have any questions or get stuck as you work through this i
 
 3. **Basics operation on cells**:
   - Click on Cell **C3**, press the = sign, then use your mouse and click on A1, press the + sign, then click on Cell A2. Cell C3 should have the following in it: =A1+A2. Now press **Enter** on your keyboard, and Excel will add cells **A1** and **A2** together and display the number 11 in Cell C3.
-<img src="images/excel-basics-04.gif"style="float:right;"> 
+<img src="images/excel-basics-04.gif" style="float:right;"> 
   - Click on or Select Cell C5, and then type in **=A3-A4**  Now press **Enter** on your keyboard, and Excel will display **5** in Cell **C5** (8-3=5).
   - Click on another cell and do the same thing to multiply two or more cells together using the * symbol to multiply.
   - Click on another cell and do the same thing to divide two or more cells using the / symbol to divide.
