@@ -47,8 +47,7 @@ Macros are a powerful tool that can help you save time by easily automating repe
   - Open the list of macros available to you by clicking on the **Developer** tab in the ribbon, and then click on the **Macros** button.
   - Select the **‘dsc-pivot-table.xlsm’!SortAttendance** macro and then press the **Run** button. Your spreadsheet should now look like this:
 
-Go Further:
-8. Edit your script to expand the range of cells that the macro will modify...
+8. Go Further:Edit your script to expand the range of cells that the macro will modify...
 
 _Great job!_
 
