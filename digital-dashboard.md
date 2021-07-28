@@ -22,11 +22,11 @@ In this activity, you will create a Digital Dashboard, integrating data from a n
   - Add the dollar value of print jobs from each month on the Dashboard: In cell **E4** type: **=** then click on the **Print by Month** tab, and select cell **C4**, then press **Enter**. Do the same for October, November, & December.  
 
 5. Create Visualizations for your most important statistics or key indicators:
-  - Create a bar graph of $ printed by month by **selecting A3:A7** and then hold down your <ctrl> key (or <command> key on a mac) and **select E3:E7**.
-  - Next, select the Insert tab at the top of the screen, and then click on Recommended Charts. The default bar chart should work fine, so click OK. Click on the Chart Title and rename it to $ Printed
-  - Create a bar graph of $ printed by month by selecting A3:A7 and then hold down your <ctrl> key (or <command> key on a mac) and select E3:E7.
-  - Next, select the Insert tab at the top of the screen, and then click on Recommended Charts. The default bar chart should work fine, so click OK. Click on the Chart Title and rename it to $ Printed
+  - Create a bar graph of workshop participants by month by **selecting A3:A7** and then **hold down your ctrl key** (or **command key** on a Mac) and **select C3:C7**.
+  - Next, **select** the **Insert tab** at the top of the screen, and then **click** on **Recommended Charts**. The default bar chart should work fine, so **click OK**. Click on the Chart Title and rename it to **Participants**.
+  - Create a bar graph of $ printed by month by **selecting A3:A7** and then **hold down your ctrl key** (or **command key** on a mac) and **select E3:E7**.
+  - Next, **select** the **Insert tab** at the top of the screen, and then click on **Recommended Charts**. The default bar chart should work fine, so **click OK**. **Click** on the **Chart Title** and rename it to **$ Printed**
 
-6. Now when you enter additional data into either your Workshop Data or Print Data sheets, your Dashboard sheet summary numbers and charts will update automatically! 
+6. Now when you enter additional data into either your **Workshop Data** or **Print Data** sheets, your Dashboard sheet summary numbers and charts will update automatically! 
 
 _Great job!_
