@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 7- Creating a Digital Dashboard
+title: 8-Creating a Digital Dashboard
 nav_order: 9
 parent: Workshop Activities
 ---
