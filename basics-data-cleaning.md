@@ -19,13 +19,13 @@ If you and your group have any questions or get stuck as you work through this i
    - Enter the following numbers in Column **A** below the number 5 you just entered: **6, 8, 3, 1, 9, 5, 4, 7, 5, 6.**  We will use this list of numbers for the rest of this       exercise.
 
 3. **Basics operation on cells**:
-  - Click on Cell **C3**, press the = sign, then use your mouse and click on A1, press the + sign, then click on Cell A2. Cell C3 should have the following in it: =A1+A2. Now press **Enter** on your keyboard, and Excel will add cells **A1** and **A2** together and display the number 11 in Cell C3.
+  - Click on Cell **C3**, press the = sign, then use your mouse and click on A1, press the + sign, then click on Cell A2. Cell C3 should have the following in it: =A1+A2. Now press **Enter** on your keyboard, and Excel will add cells **A1** and **A2** together and display the number 11 in Cell C3.<br>
 <img src="images/excel-basics-04.gif"> 
-  - Click on or Select Cell C5, and then type in **=A3-A4**  Now press **Enter** on your keyboard, and Excel will display **5** in Cell **C5** (8-3=5).
+  - Click on or Select Cell C5, and then type in **=A3-A4**  Now press **Enter** on your keyboard, and Excel will display **5** in Cell **C5** (8-3=5).<br>
 <img src="images/excel-basics-05.gif"> 
-  - Click on another cell and do the same thing to multiply two or more cells together using the * symbol to multiply.
+  - Click on another cell and do the same thing to multiply two or more cells together using the * symbol to multiply.<br>
 <img src="images/excel-basics-06.gif"> 
-  - Click on another cell and do the same thing to divide two or more cells using the / symbol to divide.
+  - Click on another cell and do the same thing to divide two or more cells using the / symbol to divide.<br>
 
 4. **Copying & pasting into ranges** with the default Relative Cell referencing:
   - In cell **B1** type **5** and then press **Enter**. Click on **B1**, then **select** the **green dot** on the **bottom right of the cell** and **drag it** down to cell **B11**. You should now have a column of 5’s.
