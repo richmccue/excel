@@ -41,11 +41,14 @@ Press OK and the spreadsheet will re-order so that the workshop list is reordere
  <img src="images/excel-charts-graphs-10.gif">
 
 5. **Pie Chart**:
+ <img src="images/excel-charts-graphs-11.png" style="float:right;width:200px;height:200px;">
   - Delete column **B** (where you typed “Test” in step 3c) by **right-mouse-clicking** on column **B**, and then **clicking** on **Delete** in the popup menu. 
   - Select all the first two columns in the sheet, by **dragging** from **A1** to **B6**. **Click** on the green **Insert** tab on the top menu.
   - **Click** on the **Recommended Charts Button** on the top menu, and then **select** the **Pie Chart Graph**. **Click OK**.
+  <img src="images/excel-charts-graphs-12.png" style="float:right;width:80px;height:100px;">
   - You can now select the type of pie chart you’d like to use from the top ribbon. Don’t forget to scroll to see more pie chart formats! 
-
+ <img src="images/excel-charts-graphs-13.gif">
+ 
 6. **Bar Chart with trendline**:
   - Select all the cells in the sheet, by dragging from A1 to C6.
   - Click on the green Insert tab on the top menu.
