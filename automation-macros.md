@@ -32,27 +32,38 @@ Macros are a powerful tool that can help you save time by easily automating repe
 
 6. We are now going to record a macro to sort the spreadsheet by attendance (from high to low) and then add a sum of the total attendance:
   - Start recording the Macro by clicking on the **Developer** tab in the ribbon, and then click on the **Record Macro** button.
+  <img src="images/excel-automation-07.png"> 
   - In the Macro name field type: **SortAttendance** (with no space between the words), and then press the **OK** button.
+  <img src="images/excel-automation-08.gif"> 
   - Sort by attendance: 
               - Select all the data in columns A, B, & C (from A1 to C34).
-              - Click on the **Data** tab on the ribbon and then click on the **Sort** button.
+              - Click on the **Data** tab on the ribbon and then click on the **Sort** button. <img src="images/excel-automation-09.png"> 
               - Click on the **Column drop-down** and select **Total Attendance**.
               - Click on the **Order** drop-down and select **Largest to Smallest**. 
               - Then click the **OK** button
+              <img src="images/excel-automation-10.png"> 
+              <img src="images/excel-automation-11.gif"> 
   - Let’s add a sum of total attendance to the top right of the spreadsheet:
               - In cell E2 type: **Total**
+              <img src="images/excel-automation-12.png"> 
+              <img src="images/excel-automation-13.gif"> 
               - In cell F2 type: **=sum(C2:C34)**
   - Save as a macro by clicking on the **Developer** tab in the ribbon, and then click on the **Stop Recording** button.
   - Save your spreadsheet by going to **File > Save As…** menu and then in the File Format field, select **Excel Macro-Enabled Workbook (.xlsm)**, and press the **Save** button.
+  <img src="images/excel-automation-14.png"> 
+  <img src="images/excel-automation-15.gif"> 
   ### - Please leave your dsc-pivot-table.xlsx spreadsheet Open in the background as you work through steps 7 and 8 or else you will have problems completing this activity!
 
 7. Use the Macro on a different spreadsheet to sort it by attendance and sum the attendance:
   - [Download spreadsheet](https://bit.ly/dsc-excel-macro)(while keeping the spreadsheet you created the macro in open in the background)
   - Open the **dsc-october.xlsx** spreadsheet you just downloaded. Note: You may have a yellow bar at the top with a button that says **Enable Editing**. Click on the button to enable editing.
   - Open the list of macros available to you by clicking on the **Developer** tab in the ribbon, and then click on the **Macros** button.
+  <img src="images/excel-automation-16.png"> 
   - Select the **‘dsc-pivot-table.xlsm’!SortAttendance** macro and then press the **Run** button. Your spreadsheet should now look like this:
+<img src="images/excel-automation-17.png"> 
 
 8. Go Further:Edit your script to expand the range of cells that the macro will modify...
+<img src="images/excel-automation-18.gif"> 
 
 _Great job!_
 
