@@ -12,7 +12,7 @@ Pivot Tables are a powerful tool that can help you quickly summarize your data. 
 
 2. Create a default pivot table in the spreadsheet you just downloaded:
 <img src="images/excel-pivot-02.png" style="float:right;"> 
-<img src="images/excel-pivot-03.png" style="float:right;width:80px;height:100px;"> 
+<img src="images/excel-pivot-03.png" style="float:right;"> 
   - Select all the data in the spreadsheet from A1 to C34.
   - Select the **Insert** tab, and then press the **PivotTable** button on the top left of the ribbon.
   - When the PivotTable dialogue box appears, press **OK**.
