@@ -10,11 +10,12 @@ parent: Workshop Activities
 Statistical Functions are powerful tools that can quickly let you make complex calculations. If you and your group have any questions or get stuck as you work through this in-class exercise, please ask the instructor for assistance.  Here are some statistical functions that are frequently used:
 
 1. Open Excel, and open a **Blank workbook**.
-<img src="images/excel-statistical-02.png" style="float:right;width:200px;height:200px;">  
+<img src="images/excel-statistical-02.png" style="float:right;width:200px;height:300px;">  
   - Enter number **5** into cell **A1** in your spreadsheet, and then press **Enter** on your keyboard.
   - Enter the following numbers in Column A below the number 5 you just entered: **6, 8, 3, 1, 9, 5, 4, 7, 5, 6**.  We will use this list of numbers for the rest of this exercise.
 
 2. **AVERAGE function (Mean)**: Returns the arithmetic mean of a range of numbers.
+<img src="images/excel-statistical-03.gif" style="float:right;width:200px;height:200px;">  
   - Enter in **A13**: **Mean**
   - Enter in **A14** the formula **=AVERAGE(A1:A11)** and then press the **Enter** key. 
   - **A14** should contain **5.363636** which is the arithmetic mean of those eleven numbers.
