@@ -44,7 +44,7 @@ Macros are a powerful tool that can help you save time by easily automating repe
               <img src="images/excel-automation-10.png"> 
               <img src="images/excel-automation-11.gif"> 
   - Let’s add a sum of total attendance to the top right of the spreadsheet:
-              - In cell E2 type: **Total**
+              - In cell E2 type: **Total**<br>
               <img src="images/excel-automation-12.png"> 
               <img src="images/excel-automation-13.gif"> 
               - In cell F2 type: **=sum(C2:C34)**
