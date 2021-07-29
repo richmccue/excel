@@ -38,6 +38,7 @@ Press OK and the spreadsheet will re-order so that the workshop list is reordere
   - **Click** on the **Freeze Panes** on the top menu, and then **select Freeze Top Row**. You can now scroll as far as you want vertically and you will always see the labels on your top row.
   - **Click** on the **Freeze Panes** on the top menu, and then select **Freeze First Column**. You can now scroll as far as you want horizontally and you will always see the labels in column A.
 <img src="images/excel-charts-graphs-09.gif">
+
 5. **Pie Chart**:
   - Delete column **B** (where you typed “Test” in step 3c) by **right-mouse-clicking** on column **B**, and then **clicking** on **Delete** in the popup menu. 
   - Select all the first two columns in the sheet, by **dragging** from **A1** to **B6**. **Click** on the green **Insert** tab on the top menu.
