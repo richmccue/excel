@@ -11,19 +11,21 @@ Macros are a powerful tool that can help you save time by easily automating repe
 1. Before you can record your first macro in Excel, first you need to enable the **Developer** option in the settings (you only have to do this once). This is done in slightly different ways in the Windows & Mac versions of Excel.
 
 2. Enable Developer option in the _**Mac OSX** version of Excel  (you only have to do this once):_
- <img src="images/excel-automation-04.png" style="float:right;width:180px;height:200px;"> 
+ <img src="images/excel-automation-04.png" style="float:right;width:180px;height:180px;"> 
   <img src="images/excel-automation-03.png" style="float:right;width:50px;height:50px;"> 
   - On the top left select **Excel > Preferences** 
   - Next, click on the **Ribbon & Toolbar** icon.
   - On the right side under **Customize the Ribbon**, select **Main Tabs** and then check **Developer**.
   - Click **Save** and then close **Excel Preferences**.
-
+ <img src="images/excel-automation-05.gif">
+ 
 3. Enable Developer option in _**Windows version of Excel**  (you only have to do this once):_
+ <img src="images/excel-automation-02.png" style="float:right;width:200px;height:200px;"> 
   - Select the main **FILE** tab.
   - Select **Options** at the bottom of the left-hand menu and then a popup window will appear.
   - Select **Customize Ribbon** on the left navigation bar, then click the check box beside **Developer**. Click **OK** to close the dialogue box.
   - You will now have a developer tab in your ribbon (on the right side).
-
+ <img src="images/excel-automation-06.png"> 
 4. Now that you’ve enabled the Develop tab on the ribbon, let’s download [this spreadsheet with data for this exercise](https://bit.ly/dsc-pivot-table)
 
 5. Open the **dsc-pivot-table.xlsx** spreadsheet that you just downloaded. Note: You may have a yellow bar at the top with a button that says **Enable Editing**. Click on the button to enable editing.
