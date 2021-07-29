@@ -4,7 +4,7 @@ title: 3-Introduction to Functions
 nav_order: 4
 parent: Workshop Activities
 ---
-<img src="images/excel-functions-01.png" style="float:right;width:320px;height:320px;"> 
+<img src="images/excel-functions-01.png" style="float:right;width:250px;height:250px;"> 
 # Introduction to Functions
 Functions are powerful tools that can quickly let you make complex calculations. If you and your group have any questions or get stuck as you work through this in-class exercise, please ask the instructor for assistance.  Here are some functions that are frequently used:
 
