@@ -30,8 +30,6 @@ Pivot Tables are a powerful tool that can help you quickly summarize your data. 
 4. Let’s create a chart:
   - Start by un-selecting **Date** in the PivotTable field name area.
   - In the **∑ Values** area, **right mouse click** on Count of Workshop and select **Remove Field**.
- <img src="images/excel-pivot-08.png" style="float:right;"> 
-  <img src="images/excel-pivot-09.png" style="float:right;">
   - Sort the Sum of Total Attendance column by clicking on the little arrow facing down (found within the “row labels” cell). Then select “Descending” and sort by the “sum of Total Attendance”. Feel free to try this by selecting “Ascending” instead as well.
 <img src="images/excel-pivot-08.png" style="float:right;"> 
   <img src="images/excel-pivot-09.png" style="float:right;">
