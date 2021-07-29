@@ -32,10 +32,12 @@ Pivot Tables are a powerful tool that can help you quickly summarize your data. 
   - In the **∑ Values** area, **right mouse click** on Count of Workshop and select **Remove Field**.
  <img src="images/excel-pivot-08.png" style="float:right;"> 
   <img src="images/excel-pivot-09.png" style="float:right;">
-  - Sort the Sum of Total Attendance column by clicking on the little arrow facing down (found within the “row labels” cell). Then select “Descending” and sort by the “sum of Total Attendance”. Feel free to try this by selecting “Ascending” instead as well. 
-<img src="images/excel-pivot-10.png" style="float:right;width:50px;height:50px;"><img src="images/excel-pivot-11.png" style="float:right;width:50px;height:50px;">  
+  - Sort the Sum of Total Attendance column by clicking on the little arrow facing down (found within the “row labels” cell). Then select “Descending” and sort by the “sum of Total Attendance”. Feel free to try this by selecting “Ascending” instead as well.
+<img src="images/excel-pivot-08.png" style="float:right;"> 
+  <img src="images/excel-pivot-09.png" style="float:right;">
   - Select the **Insert** tab on the top ribbon, and then select the **PivotChart** button in the ribbon. 
-  - Click **OK**, and now you have a basic chart. Please feel free to experiment with both the data and the chart.
+<img src="images/excel-pivot-10.png" style="float:right;width:80px;height:80px;"><img src="images/excel-pivot-11.png" style="float:right;width:80px;height:80px;">  
+  - Click **OK**, and now you have a basic chart. Please feel free to experiment with both the data and the chart.<br>
 <img src="images/excel-pivot-12.gif">
 
 _Great job!_
