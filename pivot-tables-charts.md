@@ -12,10 +12,10 @@ Pivot Tables are a powerful tool that can help you quickly summarize your data. 
 
 2. Create a default pivot table in the spreadsheet you just downloaded:
 <img src="images/excel-pivot-02.png" style="float:right;"> 
-<img src="images/excel-pivot-03.png" style="float:right;"> 
   - Select all the data in the spreadsheet from A1 to C34.
   - Select the **Insert** tab, and then press the **PivotTable** button on the top left of the ribbon.
   - When the PivotTable dialogue box appears, press **OK**.
+<img src="images/excel-pivot-03.gif"> 
 
 3. You now have a blank canvas of a pivot table setup. Let’s add data:
   - Select the **Workshop** and **Total Attendance** checkboxes on the right hand PivotTable Fields toolbar. You now have a list of workshops with a sum of total attendance for each workshop sorted by the workshop name.
