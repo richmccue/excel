@@ -54,9 +54,11 @@ Press OK and the spreadsheet will re-order so that the workshop list is reordere
   - Click on the green Insert tab on the top menu.
   - Click on the Recommended Charts Button on the top menu, and then scroll down and select the Clustered Column chart. Click OK.
   - Click on the Add Chart Element button, and then mouse over Trendline, and select Linear. 
+<img src="images/excel-charts-graphs-14.png" style="float:right;width:80px;height:100px;"> <img src="images/excel-charts-graphs-15.png" style="float:right;width:80px;height:100px;"> 
   - When the dialogue box appears, select People, and then press OK.
   - You should now have a chart that looks like the one to the right.
-
+ <img src="images/excel-charts-graphs-16.gif">
+ 
 7. **Scatterplot with Trendline:** 
   - Download and open [this Excel spreadsheet](https://bit.ly/3eujqsm){:target="_blank"}  Note: You may have a yellow bar at the top with a button that says **Enable Editing**. Click on that to enable editing.
   - Select cells **A1** to **B46**. 
@@ -65,7 +67,9 @@ Press OK and the spreadsheet will re-order so that the workshop list is reordere
   - You should now have a Scatter plot chart with a linear trend line.
   - To add a label to the vertical axis click on the **Add Chart Elements** button on the top left toolbar, and then **Axis Titles** and then **Primary Vertical**. 
   - Click on the new axis label, highlight the current text, and then type **Grade**.
+  <img src="images/excel-charts-graphs-17.gif">
   - Do the same for the horizontal Axis, and type **Homework Assignments Completed**.
+ <img src="images/excel-charts-graphs-18.gif">
   - To change the chart title, double click on the title which is currently “Grade”, and then change it to: **Grade Homework Assignment Correlation**.
 
 OPTIONAL:
