@@ -4,7 +4,7 @@ title: 5-Charting and Graphs
 nav_order: 6
 parent: Workshop Activities
 ---
-<img src="images/excel-charts-graphs-01.png" style="float:right;width:250px;height:250px;"> 
+<img src="images/excel-charts-graphs-01.png" style="float:right;width:300px;height:300px;"> 
 # Charting, Graphs and More with Excel
 In this activity, you will produce some graphs and charts in Excel. If you have any questions or get stuck as you work through this in-class exercise, please ask the instructor for assistance.  Have fun!
 
@@ -12,8 +12,8 @@ In this activity, you will produce some graphs and charts in Excel. If you have 
   - At the very bottom of the spreadsheet, beside the **Sheet 1** tab, click on the **+** button to create a new sheet.
   - Enter the following information into the new sheet:
  <img src="images/excel-charts-graphs-02.png">
- 
-2. **Sorting**: Sort by the number of workshops held (column B):<img src="images/excel-charts-graphs-03.png" style="float:right;width:50px;height:50px;"> <img src="images/excel-charts-graphs-04.png" style="float:right;width:50px;height:50px;"> 
+ <img src="images/excel-charts-graphs-03.png" style="float:right;width:100px;height:100px;"> <img src="images/excel-charts-graphs-04.png" style="float:right;width:100px;height:100px;">
+2. **Sorting**: Sort by the number of workshops held (column B): 
   - Click on cell **A1** and drag your mouse to **C6**, highlighting all boxes
   - Click on the green **Data** tab on the top menu.
   - Click on the **Sort** button on the top menu (see right). Note: If the sort Filter button is not visible, increase the size of your Excel window so that more tools are displayed on the ribbon.
