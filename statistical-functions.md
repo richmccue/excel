@@ -66,7 +66,7 @@ Statistical Functions are powerful tools that can quickly let you make complex c
   - Enter in **J13**: **Standardize**
   - Enter in **J14** the formula **=STANDARDIZE(C14, A14, E14)** and then press the **Enter** key. 
   - **J14** should contain **-0.161743283** which is Standardized for the mode.
-<img src="images/excel-statistical-12.gif">
+<img src="images/excel-statistical-12.gif" width="400" height="400">>
 
 **Note:** Microsoft offers a free **Analysis ToolPak** to help you perform more complex statistical analysis. Additional tools in the ToolPak include: Anova, Covariance, F-Test, Regression, t-Test, z-Test, among others. [Download this free Excel add-on from Microsoft here](http://bit.ly/2I4xQzS){:target="_blank"} 
 
