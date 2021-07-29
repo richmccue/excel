@@ -4,7 +4,7 @@ title: 7-Automation with Macros
 nav_order: 8
 parent: Workshop Activities
 ---
- <img src="images/excel-automation-01.png" style="float:right;"> 
+ <img src="images/excel-automation-01.png" style="float:right;width:200px;height:200px;"> 
 # Automation with Macros
 Macros are a powerful tool that can help you save time by easily automating repetitive tasks in Excel. If you have any questions or get stuck as you work through this in-class exercise, please ask the instructor for assistance. 
 
