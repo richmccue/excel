@@ -11,8 +11,8 @@ Macros are a powerful tool that can help you save time by easily automating repe
 1. Before you can record your first macro in Excel, first you need to enable the **Developer** option in the settings (you only have to do this once). This is done in slightly different ways in the Windows & Mac versions of Excel.
 
 2. Enable Developer option in the _**Mac OSX** version of Excel  (you only have to do this once):_
- <img src="images/excel-automation-02.png" style="float:right;width:50px;height:50px;"> 
-  <img src="images/excel-automation-03.png" style="float:right;width:180px;height:200px;"> 
+ <img src="images/excel-automation-02.png" style="float:right;width:180px;height:200px;"> 
+  <img src="images/excel-automation-03.png" style="float:right;width:50px;height:50px;"> 
   - On the top left select **Excel > Preferences** 
   - Next, click on the **Ribbon & Toolbar** icon.
   - On the right side under **Customize the Ribbon**, select **Main Tabs** and then check **Developer**.
