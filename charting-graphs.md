@@ -30,7 +30,7 @@ Press OK and the spreadsheet will re-order so that the workshop list is reordere
   - Type **Test** into cell **B1**. Click on **Row 1** and try inserting a row on your own now.
  <img src="images/excel-charts-graphs-07.gif">
   - Hide a column by **right mouse clicking** on column **B**, and then **selecting Hide** from the popup menu. 
-  - **Unhide** it by **selecting** columns **A** and **B**, then **right mouse click** on **B** and select Unhide. Note If you don’t have a mouse please double click with your trackpad on the slightly thicker line between column **A** and **C**.
+  - **Unhide** it by **selecting** columns **A** and **B**, then **right mouse click** on **B** and select Unhide. Note If you don’t have a mouse please double click with your trackpad on the slightly thicker line between column **A** and **C**.<br>
  <img src="images/excel-charts-graphs-08.gif">
  
 4. **Freezing rows or Columns**: This is particularly useful on spreadsheets with a lot of data so that you can scroll vertically and horizontally and still see your column and row labels.
