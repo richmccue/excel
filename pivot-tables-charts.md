@@ -18,10 +18,14 @@ Pivot Tables are a powerful tool that can help you quickly summarize your data. 
 <img src="images/excel-pivot-03.gif"> 
 
 3. You now have a blank canvas of a pivot table setup. Let’s add data:
+<img src="images/excel-pivot-04.png" style="float:right;width:250px;height:200px;"> 
   - Select the **Workshop** and **Total Attendance** checkboxes on the right hand PivotTable Fields toolbar. You now have a list of workshops with a sum of total attendance for each workshop sorted by the workshop name.
   - Let’s add a column to count the number of each type of workshop held: In the PivotTable Field Name area, grab **Workshop**, and drag it to the **∑ Values** area in the bottom right of the Excel window. You should now have a pivot table with another column named, “Count of Workshop”.
+<img src="images/excel-pivot-05.png" style="float:right;width:250px;height:200px;"> 
   - Lastly, select the **Date** checkbox in the PivotTable. 
   - Move **Date** into Rows field. You should now have a pivot table that looks like this:
+<img src="images/excel-pivot-06.gif">
+<img src="images/excel-pivot-07.png">
 
 4. Let’s create a chart:
   - Start by un-selecting **Date** in the PivotTable field name area.
