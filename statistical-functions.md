@@ -15,7 +15,7 @@ Statistical Functions are powerful tools that can quickly let you make complex c
   - Enter the following numbers in Column A below the number 5 you just entered: **6, 8, 3, 1, 9, 5, 4, 7, 5, 6**.  We will use this list of numbers for the rest of this exercise.
 
 2. **AVERAGE function (Mean)**: Returns the arithmetic mean of a range of numbers.
-<img src="images/excel-statistical-03.gif" style="float:right;width:200px;height:200px;">  
+<img src="images/excel-statistical-03.gif" style="float:right;width:250px;height:250px;">  
   - Enter in **A13**: **Mean**
   - Enter in **A14** the formula **=AVERAGE(A1:A11)** and then press the **Enter** key. 
   - **A14** should contain **5.363636** which is the arithmetic mean of those eleven numbers.
