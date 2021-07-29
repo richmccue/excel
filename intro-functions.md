@@ -54,7 +54,7 @@ Functions are powerful tools that can quickly let you make complex calculations.
 <img src="images/excel-functions-06.png" style="float:right;width:200px;height:200px;">
   - Create a new sheet (press the **+** button on the bottom of Excel) and in cells **A1** To **A4** type: **female, female, male, female** as you can see to the right.
   - In cell **B1** Type: **=IF(A1="female",1,2)** and press the **Enter** key. This formula looks at **A1**, and if **female** is found then it will return a **1**, and if it is not found then it will return a **2**.
-  - Select cell **B1**, and then grab the **green dot** at the bottom right of the cell, and drag it down to cell **B4**. You should now see a **1** beside each **female** and a **2** beside the **male**.
+  - Select cell **B1**, and then grab the **green dot** at the bottom right of the cell, and drag it down to cell **B4**. You should now see a **1** beside each **female** and a **2** beside the **male**.<br>
 <img src="images/excel-functions-07.gif" width="400" height="400">
 
 [NEXT STEP: Statistical Functions](statistical-functions.html){: .btn .btn-blue }
