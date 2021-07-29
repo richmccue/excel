@@ -4,6 +4,7 @@ title: 4-Statistical Functions
 nav_order: 5
 parent: Workshop Activities
 ---
+<img src="images/excel-statistical-01.png" style="float:right;width:400px;height:200px;"> 
 # Statistical Functions
 
 Statistical Functions are powerful tools that can quickly let you make complex calculations. If you and your group have any questions or get stuck as you work through this in-class exercise, please ask the instructor for assistance.  Here are some statistical functions that are frequently used:
