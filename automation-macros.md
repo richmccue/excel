@@ -34,9 +34,9 @@ Macros are a powerful tool that can help you save time by easily automating repe
 6. We are now going to record a macro to sort the spreadsheet by attendance (from high to low) and then add a sum of the total attendance:
   - Start recording the Macro by clicking on the **Developer** tab in the ribbon, and then click on the **Record Macro** button.
   <img src="images/excel-automation-07.png"> 
-  - In the Macro name field type: **SortAttendance** (with no space between the words), and then press the **OK** button.
+  - In the Macro name field type: **SortAttendance** (with no space between the words), and then press the **OK** button.<br>
   <img src="images/excel-automation-08.gif"> 
-  - Sort by attendance: <img src="images/excel-automation-09.png width="80" height="80">
+  - Sort by attendance: <img src="images/excel-automation-09.png" width="80" height="80">
               - Select all the data in columns A, B, & C (from A1 to C34).
               - Click on the **Data** tab on the ribbon and then click on the **Sort** button. 
               - Click on the **Column drop-down** and select **Total Attendance**.
