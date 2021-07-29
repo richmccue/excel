@@ -4,7 +4,7 @@ title: 6-Pivot Tables and Graphs
 nav_order: 7
 parent: Workshop Activities
 ---
-<img src="images/excel-pivot-01.png" style="float:right;width:250px;height:250px;"> 
+<img src="images/excel-pivot-01.png" style="float:right;width:250px;height:200px;"> 
 # Pivot Tables and Charts
 Pivot Tables are a powerful tool that can help you quickly summarize your data. If you have any questions or get stuck as you work through this in-class exercise, please ask the instructor for assistance. 
 
