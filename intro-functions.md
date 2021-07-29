@@ -13,7 +13,7 @@ Functions are powerful tools that can quickly let you make complex calculations.
   - Enter the following numbers in Column A below the number 5 you just entered: **6, 8, 3, 1, 9, 5, 4, 7, 5, 6**.  We will use this list of numbers for the rest of this exercise.
 
 2. **SUM function:** The sum function quickly and easily adds up a range of numbers for you.
-  - In cell **A13** type: **=sum(A1:A11)** and press **Enter** on your keyboard. Cell **A13** should now have the number **59** in it. 
+  - In cell **A13** type: **=sum(A1:A11)** and press **Enter** on your keyboard. Cell **A13** should now have the number **59** in it.<br>
 <img src="images/excel-functions-02.gif">
   - Rows can also be summed. Enter some numbers in cells **A16** to **D16**, and then in cell **A17** type: **=sum(A16:D16)**  After pressing **Enter**, the sum of those four numbers should appear.
   - Here is a [video tutorial](http://bit.ly/2HZ9Jmi){:target="_blank"} on how to use the Sum function in Excel
