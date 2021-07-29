@@ -9,7 +9,8 @@ parent: Workshop Activities
 
 Statistical Functions are powerful tools that can quickly let you make complex calculations. If you and your group have any questions or get stuck as you work through this in-class exercise, please ask the instructor for assistance.  Here are some statistical functions that are frequently used:
 
-1. Open Excel, and open a **Blank workbook**. 
+1. Open Excel, and open a **Blank workbook**.
+<img src="images/excel-functions-02.png" style="float:right;width:200px;height:200px;">  
   - Enter number **5** into cell **A1** in your spreadsheet, and then press **Enter** on your keyboard.
   - Enter the following numbers in Column A below the number 5 you just entered: **6, 8, 3, 1, 9, 5, 4, 7, 5, 6**.  We will use this list of numbers for the rest of this exercise.
 
