@@ -11,7 +11,7 @@ Pivot Tables are a powerful tool that can help you quickly summarize your data. 
 1. Download [this spreadsheet with data for this exercise](https://bit.ly/dsc-pivot-table){:target="_blank"} Note: You may have a yellow bar at the top with a button that says **Enable Editing**. Click on that to enable editing.
 
 2. Create a default pivot table in the spreadsheet you just downloaded:
-<img src="images/excel-pivot-02.png" style="float:right;width:250px;height:250px;"> 
+<img src="images/excel-pivot-02.png" style="float:right;"> 
 <img src="images/excel-pivot-03.png" style="float:right;width:80px;height:100px;"> 
   - Select all the data in the spreadsheet from A1 to C34.
   - Select the **Insert** tab, and then press the **PivotTable** button on the top left of the ribbon.
