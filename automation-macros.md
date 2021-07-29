@@ -50,7 +50,7 @@ Macros are a powerful tool that can help you save time by easily automating repe
               <img src="images/excel-automation-13.gif"><br> 
               - In cell F2 type: **=sum(C2:C34)**
   - Save as a macro by clicking on the **Developer** tab in the ribbon, and then click on the **Stop Recording** button.
-  <img src="images/excel-automation-17.png"> 
+   <img src="images/excel-automation-15.png"> 
   - Save your spreadsheet by going to **File > Save As…** menu and then in the File Format field, select **Excel Macro-Enabled Workbook (.xlsm)**, and press the **Save** button.
   <img src="images/excel-automation-14.png"> 
   <img src="images/excel-automation-16.gif"> 
@@ -61,10 +61,10 @@ Macros are a powerful tool that can help you save time by easily automating repe
   - [Download spreadsheet](https://bit.ly/dsc-excel-macro)(while keeping the spreadsheet you created the macro in open in the background)
   - Open the **dsc-october.xlsx** spreadsheet you just downloaded. Note: You may have a yellow bar at the top with a button that says **Enable Editing**. Click on the button to enable editing.
   - Open the list of macros available to you by clicking on the **Developer** tab in the ribbon, and then click on the **Macros** button.
- <img src="images/excel-automation-18.png"> 
+  <img src="images/excel-automation-17.png">
   - Select the **‘dsc-pivot-table.xlsm’!SortAttendance** macro and then press the **Run** button. Your spreadsheet should now look like this:
-
-
+ <img src="images/excel-automation-18.png"> 
+ 
 8. Go Further:Edit your script to expand the range of cells that the macro will modify...
 <img src="images/excel-automation-19.gif"> 
 
