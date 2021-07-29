@@ -36,7 +36,7 @@ Macros are a powerful tool that can help you save time by easily automating repe
   <img src="images/excel-automation-07.png"> 
   - In the Macro name field type: **SortAttendance** (with no space between the words), and then press the **OK** button.<br>
   <img src="images/excel-automation-08.gif"> 
-  - Sort by attendance: <img src="images/excel-automation-09.png" width="80" height="80"><br>
+  - Sort by attendance: <img src="images/excel-automation-09.png" width="60" height="60"><br>
               - Select all the data in columns A, B, & C (from A1 to C34).
               - Click on the **Data** tab on the ribbon and then click on the **Sort** button. 
               - Click on the **Column drop-down** and select **Total Attendance**.
