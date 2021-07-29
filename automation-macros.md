@@ -26,6 +26,7 @@ Macros are a powerful tool that can help you save time by easily automating repe
   - Select **Customize Ribbon** on the left navigation bar, then click the check box beside **Developer**. Click **OK** to close the dialogue box.
   - You will now have a developer tab in your ribbon (on the right side).
  <img src="images/excel-automation-06.png"> 
+ 
 4. Now that you’ve enabled the Develop tab on the ribbon, let’s download [this spreadsheet with data for this exercise](https://bit.ly/dsc-pivot-table)
 
 5. Open the **dsc-pivot-table.xlsx** spreadsheet that you just downloaded. Note: You may have a yellow bar at the top with a button that says **Enable Editing**. Click on the button to enable editing.
@@ -46,7 +47,7 @@ Macros are a powerful tool that can help you save time by easily automating repe
   - Let’s add a sum of total attendance to the top right of the spreadsheet:
               - In cell E2 type: **Total**<br>
               <img src="images/excel-automation-12.png"> 
-              <img src="images/excel-automation-13.gif"> 
+              <img src="images/excel-automation-13.gif"><br> 
               - In cell F2 type: **=sum(C2:C34)**
   - Save as a macro by clicking on the **Developer** tab in the ribbon, and then click on the **Stop Recording** button.
   - Save your spreadsheet by going to **File > Save As…** menu and then in the File Format field, select **Excel Macro-Enabled Workbook (.xlsm)**, and press the **Save** button.
