@@ -41,7 +41,7 @@ Statistical Functions are powerful tools that can quickly let you make complex c
   - Enter in **E13**: **Std Dev**
   - Enter in **E14** the formula **=STDEV.S(A1:A11)** and then press the **Enter** key. 
   - **E14** should contain **2.248232** which is the standard deviation of those eleven numbers.
-<img src="images/excel-statistical-07.png">
+<img src="images/excel-statistical-07.png" width="300" height="300">
 <img src="images/excel-statistical-08.gif">
 
 7. **VAR.S function (Sample Variance)**: Estimates variance based on a sample range.
