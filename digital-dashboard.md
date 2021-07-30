@@ -35,7 +35,7 @@ In this activity, you will create a Digital Dashboard, integrating data from a n
    <img src="images/excel-dashboard-09.gif"> 
   - Create a bar graph of $ printed by month by **selecting A3:A7** and then **hold down your ctrl key** (or **command key** on a mac) and **select E3:E7**.
   - Next, **select** the **Insert tab** at the top of the screen, and then click on **Recommended Charts**. The default bar chart should work fine, so **click OK**. **Click** on the **Chart Title** and rename it to **$ Printed**
- <img src="images/excel-dashboard-10/gif">
+ <img src="images/excel-dashboard-10.gif">
  
 6. Now when you enter additional data into either your **Workshop Data** or **Print Data** sheets, your Dashboard sheet summary numbers and charts will update automatically! 
  <img src="images/excel-dashboard-11.png" style="float:right"> 
