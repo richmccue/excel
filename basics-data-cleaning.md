@@ -4,7 +4,7 @@ title: 2-Excel Basics and Data CLeaning
 nav_order: 3
 parent: Workshop Activities
 ---
-![Worksheet example]<img src="images/excel-basics-01.png" style="float:right;width:320px;height:320px;"> 
+<img src="images/excel-basics-01.png" style="float:right;width:320px;height:320px;"> 
 # Excel Basics and Data Cleaning
 If you and your group have any questions or get stuck as you work through this in-class exercise, please ask the instructor for assistance.  Have fun!
 
