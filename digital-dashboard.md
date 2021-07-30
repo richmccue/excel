@@ -38,6 +38,6 @@ In this activity, you will create a Digital Dashboard, integrating data from a n
  <img src="images/excel-dashboard-10.gif">
  
 6. Now when you enter additional data into either your **Workshop Data** or **Print Data** sheets, your Dashboard sheet summary numbers and charts will update automatically! 
- <img src="images/excel-dashboard-11.png" style="float:right"> 
+ <img src="images/excel-dashboard-11.png"> 
   <img src="images/excel-dashboard-12.png"> 
 _Great job!_
