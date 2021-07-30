@@ -19,19 +19,19 @@ In this activity, you will create a Digital Dashboard, integrating data from a n
  <img src="images/excel-dashboard-03.png" style="float:right"> 
   - In **A3** type **Month**. In **B3** type # of Workshops. In **C3** type **Participants**. In **D3** Print Jobs. In **E3** type **$ Printed**. 
   - In the rows **under month** column **type: Sept, Oct, Nov, Dec** (see right).
-  - Add the number of workshops from each month to the Dashboard sheet: In cell **B4** type: **=** then **click** on the **Workshop by Month** tab, and **select** cell **B5**, then press **Enter**. Do the same for October, November, & December.
+  - Add the number of workshops from each month to the Dashboard sheet: In cell **B4** type: **=** then **click** on the **Workshop by Month** tab, and **select** cell **B5**, then press **Enter**. Do the same for October, November, & December.<br>
  <img src="images/excel-dashboard-04.gif"> 
-  - Add the number of participants from each month on the Dashboard sheet: In cell **C4** type: **=** then **click** on the **Workshop by Month** tab, and **select** cell **C5**, then **Enter**. Do the same for October, November, & December.
+  - Add the number of participants from each month on the Dashboard sheet: In cell **C4** type: **=** then **click** on the **Workshop by Month** tab, and **select** cell **C5**, then **Enter**. Do the same for October, November, & December.<br>
   <img src="images/excel-dashboard-05.gif"> 
-  - Add the number of print jobs from each month on the Dashboard:  In cell **D4** tupe: **=** then **click** on the **Print by Month** tab, and **select** cell **B4**, then press **Enter**. Do the same for October, November, & December. 
+  - Add the number of print jobs from each month on the Dashboard:  In cell **D4** tupe: **=** then **click** on the **Print by Month** tab, and **select** cell **B4**, then press **Enter**. Do the same for October, November, & December.<br>
    <img src="images/excel-dashboard-06.gif"> 
-  - Add the dollar value of print jobs from each month on the Dashboard: In cell **E4** type: **=** then click on the **Print by Month** tab, and select cell **C4**, then press **Enter**. Do the same for October, November, & December.  
+  - Add the dollar value of print jobs from each month on the Dashboard: In cell **E4** type: **=** then click on the **Print by Month** tab, and select cell **C4**, then press **Enter**. Do the same for October, November, & December.<br>  
   <img src="images/excel-dashboard-07.gif">
 
 5. Create Visualizations for your most important statistics or key indicators:
  <img src="images/excel-dashboard-08.png" style="float:right"> 
   - Create a bar graph of workshop participants by month by **selecting A3:A7** and then **hold down your ctrl key** (or **command key** on a Mac) and **select C3:C7**.
-  - Next, **select** the **Insert tab** at the top of the screen, and then **click** on **Recommended Charts**. The default bar chart should work fine, so **click OK**. Click on the Chart Title and rename it to **Participants**.
+  - Next, **select** the **Insert tab** at the top of the screen, and then **click** on **Recommended Charts**. The default bar chart should work fine, so **click OK**. Click on the Chart Title and rename it to **Participants**.<br>
    <img src="images/excel-dashboard-09.gif"> 
   - Create a bar graph of $ printed by month by **selecting A3:A7** and then **hold down your ctrl key** (or **command key** on a mac) and **select E3:E7**.
   - Next, **select** the **Insert tab** at the top of the screen, and then click on **Recommended Charts**. The default bar chart should work fine, so **click OK**. **Click** on the **Chart Title** and rename it to **$ Printed**
@@ -39,5 +39,5 @@ In this activity, you will create a Digital Dashboard, integrating data from a n
  
 6. Now when you enter additional data into either your **Workshop Data** or **Print Data** sheets, your Dashboard sheet summary numbers and charts will update automatically! 
  <img src="images/excel-dashboard-11.png" style="float:right"> 
-  <img src="images/excel-dashboard-12.gif"> 
+  <img src="images/excel-dashboard-12.png"> 
 _Great job!_
