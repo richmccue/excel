@@ -4,7 +4,7 @@ title: 2-Excel Basics and Data CLeaning
 nav_order: 3
 parent: Workshop Activities
 ---
-<img src="images/excel-basics-01.png" style="float:right;width:320px;height:320px;"> 
+![Worksheet example]<img src="images/excel-basics-01.png" style="float:right;width:320px;height:320px;"> 
 # Excel Basics and Data Cleaning
 If you and your group have any questions or get stuck as you work through this in-class exercise, please ask the instructor for assistance.  Have fun!
 
@@ -13,8 +13,8 @@ If you and your group have any questions or get stuck as you work through this i
    - Columns are vertical. Eg. **Column C.**
    - Rows are horizontal. Eg. **Row 3.**
    - Cells are the intersection between a column and a row. Eg. Cell **E7** (see image).<br>
- <img src="images/excel-basics-02.png" width="400" height="200" > 
-  <img src="images/excel-basics-03.png" style="float:right;width:250px;height:250px;">
+ ![Colums,Rows and Cells]<img src="images/excel-basics-02.png" width="400" height="200" > 
+  ![Final steps of Step 2]<img src="images/excel-basics-03.png" style="float:right;width:250px;height:250px;">
    - Enter number **5** into cell A1 in your spreadsheet, and then press **Enter** on your keyboard.
    - Enter the following numbers in Column **A** below the number 5 you just entered: **6, 8, 3, 1, 9, 5, 4, 7, 5, 6.**  We will use this list of numbers for the rest of this       exercise.
 
