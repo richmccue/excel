@@ -18,7 +18,7 @@ DSC badges are awarded at the request of workshop participants after a DSC staff
 If you’d like to earn a DSC badge for this porkshop, please email the following spreadsheets to: [dscommons@uvic.ca](mailto:dscommons@uvic.ca){:target="_blank"}
 1. Statistical Functions
 2. Macros
-3.  Digital Dashboards
+3. Digital Dashboards
 
 ### Learn how you can share your DSC Badge
 To learn more about DSC badges and how you can share your them on LinkedIn profile, personal website, or resume, check our [DSC Badges webpage](https://onlineacademiccommunity.uvic.ca/dsc/badges/){:target="_blank"}.
