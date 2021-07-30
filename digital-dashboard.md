@@ -4,14 +4,15 @@ title: 8-Creating a Digital Dashboard
 nav_order: 9
 parent: Workshop Activities
 ---
- <img src="images/excel-dashboard-01.png" style="float:right"> 
 # Creating a Digital Dashboard
+ <img src="images/excel-dashboard-01.png" style="float:right"> 
 In this activity, you will create a Digital Dashboard, integrating data from a number of sheets and pivot tables. If you have any questions or get stuck as you work through this in-class exercise, please ask the instructor for assistance.  Have fun!
 
 1. **Download & open** [this spreadsheet with data for this exercise](https://bit.ly/dsc-dashboard). **Click** on the yellow **Enable Editing** button at the top of the screen.
 
 2. Look at the data in each sheet, by **clicking** on the **tabs** at the bottom of the spreadsheet (see below). Note that the “Workshop Most Popular” pivot table sheets summarize the “Workshop Data” sheet.
-
+ <img src="images/excel-dashboard-02.png">
+ 
 3. Click on the **Dashboard** tab at the bottom left of the spreadsheet and give this sheet the title of **DSC Dashboard** in cell **A1**.  
 
 4. Link the Most Important statistics or Key Data to your Dashboard from other sheets:
