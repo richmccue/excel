@@ -37,18 +37,18 @@ Functions are powerful tools that can quickly let you make complex calculations.
   - **Copy** cell **B4** and then **select** cells **B11 and below** and **paste** so that each of the items sold you have entered has a price beside them.
   - Modify the VLOOKUP formula in the B column to use the IF function so that it ignores all blank fields in the A column, and only uses the VLOOKUP function if there is something in the A column. **Type** the following formula into **B4**: **=IF(A4<>"",VLOOKUP(A4,$D$4:$E$9,2,FALSE),"")**
   - **Copy** the **B4** cell, then select cells **B5 to B25** and **paste**.
-  - Here is a [video tutorial](http://bit.ly/2I4IoiJ){:target="_blank"} on how to use the VLOOKUP function in Excel
+  - If you would like additional information on the VLOOKUP function here is a [Microsoft tutorial](http://bit.ly/2I4IoiJ){:target="_blank"}
 <img src="images/excel-functions-04.gif" width="400" height="400" alt="Demonstration of modifying the formula.">
 
 7. **CONCATENATE function**: Joins two or more text strings into one string. For Example, if cell **A1** contains **Victoria** and cell **B1** contains **BC**, join the two text strings together in cell **C1** with a space and a comma between them using the following function: **=CONCATENATE(A1, ", ",B1)** will give you: **Victoria, BC**.
-  - Here is a [tutorial video](http://bit.ly/2I2qTzl){:target="_blank"} on how to use the CONCATENATE function in Excel
+  - If you would like additional information on the CONCATENATE function here is a [Microsoft tutorial](http://bit.ly/2I2qTzl){:target="_blank"}
 
 8. **VALUE function**: Converts a text string that represents a number to a number. For example, it would convert the text string **$1,000** to the number **1000**. Excel cannot add up text even if it looks like a number. 
   - Enter **‘$1,000** into cell **C1**. In cell **C2** enter =**value(C1)**   This will return the number 1000 that you can now perform mathematical operations on.
-  - Here is a [video tutorial](http://bit.ly/2I0O1OR){:target="_blank"} on how to use the value function in Excel  
+  - If you would like additional information on the VALUE function here is a [Microsoft tutorial](http://bit.ly/2I0O1OR){:target="_blank"}  
  
 9. **LEN function**: returns the number of characters in a text string. Eg. Enter **=LEN("test text")** into cell **C3** . This will return **9**, as there are 9 characters in the text string “test text” (a space is a character). 
-  - Here is a [tutorial](http://bit.ly/2I0lYiA){:target="_blank"} on how to use the Len function in Excel  
+  - If you would like additional information on the LEN function here is a [Microsoft tutorial](http://bit.ly/2I0lYiA){:target="_blank"}  
 
 10. **IFS function**: Use the IFS function to check whether one or more conditions are met and returns a value that corresponds to the first TRUE condition.
 <img src="images/excel-functions-06.png" style="float:right;width:200px;height:200px;" alt="Representation of Column A and Column B.">
