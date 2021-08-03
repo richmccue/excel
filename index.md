@@ -12,7 +12,7 @@ nav_order: 1
 - Hands-on activities: 80-110 min
 
 ## Why Excel? 
-Excel is important as it helps develop digital skills that will allow users to compile data in various formats. Excel is beneficial to the workplace as it helps organize information and data (such as finances or other data), and creates various elements such as tables, graphs and charts. This ultimately will create a more professional and organized work space, which will be an asset to your personal development in both career and education. 
+Excel is important tool which allow you to collect data, then analyse, and visualize the resulting information in various formats. Excel is can help you not only in a workplace, but also in your school work and research, as it can help you organize many types of information and data (such as financal, organizational or research data for example), and can help you quicly create a variety of reporting elements like tables, graphs and charts. The ability to use spreadsheets effectivlty will help you in your school work, research projects, and career. 
 
 ## Learning objectives
 
