@@ -11,8 +11,8 @@ nav_order: 1
 - Introductory presentation: 10 min
 - Hands-on activities: 80-110 min
 
-## Why Excel? 
-Excel is important tool which allow you to collect data, then analyse, and visualize the resulting information in various formats. Excel is can help you not only in a workplace, but also in your school work and research, as it can help you organize many types of information and data (such as financal, organizational or research data for example), and can help you quicly create a variety of reporting elements like tables, graphs and charts. The ability to use spreadsheets effectivlty will help you in your school work, research projects, and career. 
+## How can Excel make my life easier? 
+Excel is powerful tool which help you collect data, then analyse, and visualize the resulting information. Excel is can help you not only in a workplace, but also in your school work and research, as it can help you organize many types of information and data (such as financal, organizational or research data for example), and can help you quicly create a variety of reporting elements like tables, graphs and charts. The ability to use spreadsheets effectivlty will help you in your school work, research projects, jobe searches, and career. 
 
 ## Learning objectives
 
