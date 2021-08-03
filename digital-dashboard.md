@@ -41,4 +41,4 @@ In this activity, you will create a Digital Dashboard, integrating data from a n
   <img src="images/excel-dashboard-12.png" alt="Digital Dashboard visual."> 
   
 _Great job!_
-[NEXT STEP: Earn Your Badge](informal-credentials){: .btn .btn-blue }
+[NEXT STEP: Earn a Workshop Badge](informal-credentials){: .btn .btn-blue }
