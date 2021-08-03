@@ -14,7 +14,7 @@ Functions are powerful tools that can quickly let you make complex calculations.
 
 2. **SUM function:** The sum function quickly and easily adds up a range of numbers for you.
   - In cell **A13** type: **=sum(A1:A11)** and press **Enter** on your keyboard. Cell **A13** should now have the number **59** in it.<br>
-<img src="images/excel-functions-02.gif">
+<img src="images/excel-functions-02.gif" alt="Demonstration of Calculating the Sum.">
   - Rows can also be summed. Enter some numbers in cells **A16** to **D16**, and then in cell **A17** type: **=sum(A16:D16)**  After pressing **Enter**, the sum of those four numbers should appear.
   - Here is a [video tutorial](http://bit.ly/2HZ9Jmi){:target="_blank"} on how to use the Sum function in Excel
 
@@ -31,14 +31,14 @@ Functions are powerful tools that can quickly let you make complex calculations.
 6. **VLOOKUP function**: Use VLOOKUP when you need to find things in a table or a range by row. For example, look up the price of a sale item by item name.
   - **Open** [this spreadsheet](https://bit.ly/dsc-vlookup){:target="_blank"} and **Click** on the yellow **Enable Editing** button at the top of the screen.
   - In the **B4** field **type**: **=VLOOKUP(A4,$D$4:$E$9,2,FALSE)**
-<img src="images/excel-functions-03.png">
+<img src="images/excel-functions-03.png" alt="Visual of the data from step 6.">
   - **Copy and paste** the contents of **B4** into **B5 to B10**.
   - **Type** in a few **item names** (like “Dog” or “Seal” for example) from the lookup table in field **A11 and below**.
   - **Copy** cell **B4** and then **select** cells **B11 and below** and **paste** so that each of the items sold you have entered has a price beside them.
   - Modify the VLOOKUP formula in the B column to use the IF function so that it ignores all blank fields in the A column, and only uses the VLOOKUP function if there is something in the A column. **Type** the following formula into **B4**: **=IF(A4<>"",VLOOKUP(A4,$D$4:$E$9,2,FALSE),"")**
   - **Copy** the **B4** cell, then select cells **B5 to B25** and **paste**.
   - Here is a [video tutorial](http://bit.ly/2I4IoiJ){:target="_blank"} on how to use the VLOOKUP function in Excel
-<img src="images/excel-functions-04.gif" width="400" height="400">
+<img src="images/excel-functions-04.gif" width="400" height="400" alt="Demonstration of modifying the formula.">
 
 7. **CONCATENATE function**: Joins two or more text strings into one string. For Example, if cell **A1** contains **Victoria** and cell **B1** contains **BC**, join the two text strings together in cell **C1** with a space and a comma between them using the following function: **=CONCATENATE(A1, ", ",B1)** will give you: **Victoria, BC**.
   - Here is a [tutorial video](http://bit.ly/2I2qTzl){:target="_blank"} on how to use the CONCATENATE function in Excel
@@ -51,10 +51,10 @@ Functions are powerful tools that can quickly let you make complex calculations.
   - Here is a [tutorial](http://bit.ly/2I0lYiA){:target="_blank"} on how to use the Len function in Excel  
 
 10. **IFS function**: Use the IFS function to check whether one or more conditions are met and returns a value that corresponds to the first TRUE condition.
-<img src="images/excel-functions-06.png" style="float:right;width:200px;height:200px;">
+<img src="images/excel-functions-06.png" style="float:right;width:200px;height:200px;" alt="Representation of Column A and Column B.">
   - Create a new sheet (press the **+** button on the bottom of Excel) and in cells **A1** To **A4** type: **female, female, male, female** as you can see to the right.
   - In cell **B1** Type: **=IF(A1="female",1,2)** and press the **Enter** key. This formula looks at **A1**, and if **female** is found then it will return a **1**, and if it is not found then it will return a **2**.
   - Select cell **B1**, and then grab the **green dot** at the bottom right of the cell, and drag it down to cell **B4**. You should now see a **1** beside each **female** and a **2** beside the **male**.<br>
-<img src="images/excel-functions-07.gif" width="400" height="400">
+<img src="images/excel-functions-07.gif" width="400" height="400" alt="Demonstration of Step 10">
 
 [NEXT STEP: Statistical Functions](statistical-functions.html){: .btn .btn-blue }
