@@ -20,9 +20,9 @@ Statistical Functions are powerful tools that can quickly let you make complex c
   - **A14** should contain **5.363636** which is the arithmetic mean of those eleven numbers.
 
 3. **MEDIAN function**: Returns the median of the given numbers. The median is the number in the middle of a set of numbers.
+<img src="images/excel-statistical-04.gif" style="float:right;width:250px;height:250px" alt="Demonstration of Step 3">
   - Enter in **B13**: **Median**
   - Enter in **B14** the formula **=MEDIAN(A1:A11)** and then press the **Enter** key. 
-<img src="images/excel-statistical-04.gif" style="float:right;width:250px;height:250px" alt="Demonstration of Step 3">
   - **B14** should contain **5** which is the median or in the middle of those eleven numbers.
 
 4. **MODE function**: Mode returns the most frequently occurring value in the range of data.
