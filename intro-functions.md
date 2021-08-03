@@ -16,17 +16,17 @@ Functions are powerful tools that can quickly let you make complex calculations.
   - In cell **A13** type: **=sum(A1:A11)** and press **Enter** on your keyboard. Cell **A13** should now have the number **59** in it.<br>
 <img src="images/excel-functions-02.gif" alt="Demonstration of Calculating the Sum.">
   - Rows can also be summed. Enter some numbers in cells **A16** to **D16**, and then in cell **A17** type: **=sum(A16:D16)**  After pressing **Enter**, the sum of those four numbers should appear.
-  - Here is a [video tutorial](http://bit.ly/2HZ9Jmi){:target="_blank"} on how to use the Sum function in Excel
+  - If you would like additional information on the SUM function, here is a [Microsoft video tutorial](http://bit.ly/2HZ9Jmi){:target="_blank"}
 
 3. INT function: The INT function rounds a number down to the nearest integer. For example, =INT(5.6789) would return 5
-  - Here is a [tutorial](http://bit.ly/2I2qFIv){:target="_blank"} on how to use the INT function in Excel
+  - If you would like additional information on the INT function here is a [Microsoft tutorial](http://bit.ly/2I2qFIv){:target="_blank"}
 
 4. **COUNTA function**: Counts the number of non-empty cells in a range. 
   - In an empty cell enter: **=counta(A1:A20)**
-  - Here is a [video tutorial](https://bit.ly/2Ie37Rh){:target="_blank"} on how to use the Count function in Excel
+  - If you would like additional information on the COUNTA function here is a [Microsoft tutorial](https://bit.ly/2Ie37Rh){:target="_blank"}
 
 5. **COUNTIF function**: For example, **=COUNTIF(A2:A5,"London")** counts the number of cells with **London** in the range A2 to A5.
-  - Here is a [tutorial](https://bit.ly/2I4IFCh){:target="_blank"} on how to use the COUNTIF function in Excel
+  - If you would like additional information on the COUNTIF function here is a [Microsoft tutorial](https://bit.ly/2I4IFCh){:target="_blank"}
 
 6. **VLOOKUP function**: Use VLOOKUP when you need to find things in a table or a range by row. For example, look up the price of a sale item by item name.
   - **Open** [this spreadsheet](https://bit.ly/dsc-vlookup){:target="_blank"} and **Click** on the yellow **Enable Editing** button at the top of the screen.
