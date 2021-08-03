@@ -39,4 +39,6 @@ In this activity, you will create a Digital Dashboard, integrating data from a n
 6. Now when you enter additional data into either your **Workshop Data** or **Print Data** sheets, your Dashboard sheet summary numbers and charts will update automatically!<br>
  <img src="images/excel-dashboard-11.png" alt="Image of Digital dashboard chart."> 
   <img src="images/excel-dashboard-12.png" alt="Digital Dashboard visual."> 
+  
 _Great job!_
+[NEXT STEP: Earn Your Badge](informal-credentials){: .btn .btn-blue }
