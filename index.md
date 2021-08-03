@@ -19,7 +19,6 @@ Excel is important tool which allow you to collect data, then analyse, and visua
 At the end of this workshop, you will be able to:
 1. Enter date data into rows & columns
 2. Name and identify rows & columns
-3. Use the text to columns function
 4. Sort data, using the filter button
 5. Find and replace data (data cleaning) & know when Open Refine would be a more appropriate tool.
 6. Change categorical data (e.g., male, female) into numerical data (e.g., 1, 2)
