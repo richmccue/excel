@@ -58,7 +58,7 @@ Macros are a powerful tool that can help you save time by easily automating repe
   - **Please leave your dsc-pivot-table.xlsx spreadsheet Open in the background as you work through steps 7 and 8 or else you will have problems completing this activity!**
 
 7. Use the Macro on a different spreadsheet to sort it by attendance and sum the attendance:
-  - [Download spreadsheet](https://bit.ly/dsc-excel-macro)(while keeping the spreadsheet you created the macro in open in the background)
+  - [Download spreadsheet](docs/dsc-pivot-table.xlsx){:target="_blank"}(while keeping the spreadsheet you created the macro in open in the background)
   - Open the **dsc-october.xlsx** spreadsheet you just downloaded. Note: You may have a yellow bar at the top with a button that says **Enable Editing**. Click on the button to enable editing.
   - Open the list of macros available to you by clicking on the **Developer** tab in the ribbon, and then click on the **Macros** button.
   <img src="images/excel-automation-17.png" alt="Developer and macros button.">
