@@ -8,7 +8,7 @@ parent: Workshop Activities
 # Pivot Tables and Charts
 Pivot Tables are a powerful tool that can help you quickly summarize your data. If you have any questions or get stuck as you work through this in-class exercise, please ask the instructor for assistance. 
 
-1. Download [this spreadsheet with data for this exercise](https://bit.ly/dsc-pivot-table){:target="_blank"} Note: You may have a yellow bar at the top with a button that says **Enable Editing**. Click on that to enable editing.
+1. Download [this spreadsheet with data for this exercise](docs/dsc-pivot-table.xlsx){:target="_blank"} Note: You may have a yellow bar at the top with a button that says **Enable Editing**. Click on that to enable editing.
 
 2. Create a default pivot table in the spreadsheet you just downloaded:
 <img src="images/excel-pivot-02.png" style="float:right;" alt="Insert pivot table icon."> 
